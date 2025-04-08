@@ -1,3 +1,8 @@
+// Exercise 1-5: Modify the temperature conversion program to print the table
+// reverse order, that is, from 300 degrees to 0
+// This exercise helps you understand how to modify existing programs and work with loops and arithmetic operations in C.
+
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,6 @@
+// Exercise 1-3: Write a program to convert Fahrenheit to Celsius. 
+// This exercise helps you understand how to use loops and arithmetic operations in C.
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,6 @@
+// Exercise 1-4: Write a program to print the corresponding Celsius to Fahrenheit table.
+// This exercise helps you understand how to convert Celsius to Fahrenheit and work with loops and arithmetic operations in C.
+
 #include <stdio.h>
 
 int main(){

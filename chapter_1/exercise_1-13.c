@@ -1,5 +1,6 @@
-// Exercise 1-13: Write a program to print a histogram of the lengths of words in its input.
-// It is easy to draw the histogram with the bars horizontal; a verifical orientation is more challenging.
+// Exercise 1-13: This exercise involves writing a program to print a histogram of the lengths of words in its input. 
+// It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging.
+// This exercise teaches how to handle user input, count words, and visually represent data in the form of a histogram. 
 
 #include <stdio.h>
 

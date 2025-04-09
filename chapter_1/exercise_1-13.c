@@ -48,7 +48,7 @@ int main(){
     putchar('\n');
     for (i = 0; i < histogram_height; i++){ // rows amount is based on hightest_number
         for (j = 0; j < 9; j++){
-            if ( ndigit[j] >= actual_height || printed_numbers[j] == 1 ){
+            if ( ndigit[j] >= actual_height || printed_numbers[j] ){
                 printf(" * ");
                 printed_numbers[j] = 1;
             } else 

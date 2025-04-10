@@ -14,11 +14,6 @@ int main(){
         letters[i] = 0;
     }
 
-    int printed_numbers[255];
-    for (i = 0; i < 255; i++){
-        printed_numbers[i] = 0;
-    }
-
     while((c = getchar()) != EOF){
         ++letters[c];
     }
